@@ -1,0 +1,28 @@
+.form-container {
+  border-radius: 3px;
+  padding: 3px;
+  width: 300px;
+  background-color: beige;
+}
+
+label {
+  font-family: arial;
+  color: #000001;
+  margin: auto;
+}
+
+input,
+textarea {
+  width: 300px;
+  padding: 3px;
+  margin: 0 0 3px 0;
+}
+
+button {
+  background-color: green;
+  font-size: large;
+}
+
+button:hover {
+  background-color: blue;
+}
